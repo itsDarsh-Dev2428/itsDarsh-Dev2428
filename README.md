@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Darsh Jha
 
-🧠 JEE Aspirant | 💻 Programmer | 📈 Systems Thinker  
+🧠 SAT/JEE Aspirant | 💻 Programmer | 📈 Systems Thinker  
 🚀 Becoming a better version of myself — daily, deliberately.
 
 ---
@@ -8,7 +8,7 @@
 ## 🕷️ About Me
 
 - 🎯 On a long-term transformation journey inspired by the **Peter Parker mindset** (growth, responsibility, discipline)
-- 📚 Preparing for **JEE** with deep conceptual focus in **Physics, Mathematics & Chemistry**
+- 📚 Preparing for **SAT/JEE** with deep conceptual focus in **Physics, Mathematics, English**
 - 💻 Building strong foundations in **Computer Science & Programming**
 - 🧪 Creator of **Project: Decay Rate Algorithm** — exploring structured thinking & proofs
 - 🏎️ Formula 1 enthusiast | Inspired by **Max Verstappen’s consistency & execution**
