@@ -95,7 +95,7 @@ you fall to the level of your discipline.*
 ## 📫 Connect With Me
 
 - GitHub: [@DarshDev](https://github.com/itsDarsh-Dev2428)
-- Instagram:[Aado](https://www.instagram.com/adix.tyx24/)
+- Instagram:[Aadi](https://www.instagram.com/adix.tyx24/)
 - Reddit: [Spidey](https://www.reddit.com/user/Fun_Letterhead_8707/)
 - LinkedIn:[Darsh-Jha](https://www.linkedin.com/in/darsh-jha-9539503a2/)
 
