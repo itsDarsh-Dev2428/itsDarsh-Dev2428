@@ -7,7 +7,7 @@ Student focused on building strong fundamentals in Physics, Mathematics, and Com
 ## About
 
 * Preparing for **JEE/SAT** with focus on conceptual clarity and problem-solving
-* I've an bit an experience of **Ethical Hacking** and captured some CTF in *TryHackMe* and  *HackTheBox*
+* I've an bit of an experience of **Ethical Hacking** and captured some CTF in *TryHackMe* and  *HackTheBox*
 * Practicing **Data Structures & Algorithms** alongside academics
 * Working on **Project: Decay Rate Algorithm** (structured reasoning & modeling)
 
