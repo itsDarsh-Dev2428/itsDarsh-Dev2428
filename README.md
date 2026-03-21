@@ -57,10 +57,10 @@ Student focused on building strong fundamentals in Physics, Mathematics, and Com
 
 ## Links
 
-*GitHub: https://github.com/itsDarsh-Dev2428
-*LinkedIn: https://www.linkedin.com/in/darsh-jha-9539503a2/
-*Instagram: https://www.instagram.com/adix.tyx24/
-*Reddit: https://www.reddit.com/user/Fun_Letterhead_8707/
+* GitHub: https://github.com/itsDarsh-Dev2428
+* LinkedIn: https://www.linkedin.com/in/darsh-jha-9539503a2/
+* Instagram: https://www.instagram.com/adix.tyx24/
+* Reddit: https://www.reddit.com/user/Fun_Letterhead_8707/
 
 ---
 
